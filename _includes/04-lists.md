@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Person of Interest. :heart:
+2. The Simpsons.
+   * Bart Simpson
+   * Homer Simpson
